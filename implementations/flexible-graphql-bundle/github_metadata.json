@@ -1,5 +1,5 @@
 {
-  "description": "Schema first lib for generate php code from graphql sdl to TypeRegistry whom support webonyx/graphql-php with simple integrate to any controller.",
-  "stargazerCount": 4481,
-  "lastRelease": "2023-03-09T10:26:13Z"
+  "description": "Schema first bundle for generate php code from graphql sdl to TypeRegistry with webonyx/graphql-php for symfony framework",
+  "stargazerCount": 1,
+  "lastRelease": "2023-03-19T21:29:06Z"
 }
